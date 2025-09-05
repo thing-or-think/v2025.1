@@ -1,0 +1,5 @@
+Project: Achero
+Version: 0.0.1
+Date: 2025-09-05 17:10
+Author: thing-or-think
+Description: Displays the main screen and exits the program.
